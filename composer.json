@@ -1,5 +1,5 @@
 {
-    "name": "setono/cron-expression-bundle",
+    "name": "ivanaareon/cron-expression-bundle",
     "type": "symfony-bundle",
     "description": "Symfony bundle that integrates dragonmantank/cron-expression",
     "license": "MIT",
